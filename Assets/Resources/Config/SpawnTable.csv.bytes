@@ -1,0 +1,5 @@
+,物体名,所属类型,Resources/,Resources/,Prefab/
+ID,ItemName,ItemType,ModelPath,ImagePath,LightPath
+1,Cube,Model,Model/Cube,Image/Cube,
+2,Sphere,Model,Model/Sphere,Image/Sphere,
+3,Capsule,Light,Model/Capsule,Image/Capsule,Point Light
